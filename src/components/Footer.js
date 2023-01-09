@@ -1,6 +1,6 @@
 import React from 'react';
 
-const AboutSchoolAdemir = () => {
+const Footer = () => {
     return (
         <div>
             
@@ -8,4 +8,4 @@ const AboutSchoolAdemir = () => {
     );
 };
 
-export default AboutSchoolAdemir;
+export default Footer;
